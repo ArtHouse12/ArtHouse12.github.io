@@ -1,0 +1,1141 @@
+@media screen and (max-width:1300px){
+    .aboutgirl{
+        position: absolute;
+       right:200px;
+    }
+    .arorya{
+        margin-bottom: 80px;
+    }
+.lineone, .linetwo{
+    width:300px
+}
+
+#spin-container{
+
+     margin-left: -250px;
+    }
+    .aroryaone div{
+        width:400px;
+    }
+.opinionof{
+    margin-left: -50px;
+}
+.liner{
+    width:500px;
+}
+.spiner{
+    margin-left: -30px;
+}
+footer{
+    height:200px;
+    }
+    .aboutus div img{
+        width:270px;
+    }
+}
+
+@media screen and (max-width:1280px) {
+    
+
+    #select-container{
+        margin-right: 40px;
+    }
+    .flags{
+        margin-left: -20px;
+       
+      
+    }
+    .teammeet{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .aroryaone div {
+margin:10px;
+width:400px;
+    }
+
+  /*  .abouttextwo{
+        width:700px;
+        margin-left:-12px;
+       
+   
+    }
+.abouttexttwo{
+    margin-right: 50%;
+}
+*/
+.bd{
+    margin-top:70px !important
+}
+
+    .alllanguages{
+        margin-left:-60px;
+    };
+    .message{
+        position: fixed;
+      left:-200px;
+   
+    };
+    .bd {
+    display:flex;
+    flex-wrap: wrap;
+    }
+
+ 
+    .aboutgirl {
+position: absolute;
+right:150px;
+top:250px;
+   
+    };
+    .aboutbasket,.aboutlang{
+        margin-right: -750px;
+    };
+    .underpics{
+        margin-right:300px;
+    };
+
+   /* .maintexter{
+        margin-left:40px;
+    };*/
+
+    .lineheader{
+        width:100%;
+        display: flex;
+    }
+    .lines{
+   margin: 30px auto;
+   text-align: center
+    }
+   
+   .lines .lineone, .lines .linetwo{
+ 
+  width:20%;
+   };
+
+   .play{
+    margin-left: 100px;
+   };
+   #spin-container{
+margin-left: -80px;
+ 
+   };
+   .opinionof{
+    display:flex;
+   }
+
+}
+
+@media screen and (max-width:1226px){
+    .aboutgirl{
+        margin-left: 700px;
+    }
+    .weone{
+        text-align: center;
+        font-size: 60px;
+      
+    }
+    .connect{
+        margin-left: -20px;
+    }
+   
+ .hasce{
+    margin-left: 100px;
+ }
+    .videotwo,.videofour{
+        height:455px;
+    }
+    .aroryaone{
+        display:flex;
+        flex-wrap: wrap;
+    }
+
+#select-container{
+    margin-right: -20px;
+}
+}
+
+@media screen and (max-width:1185px){
+    .aboutgirl{
+      left:-40px;
+    }
+    .aboutus div img{
+        width:250px;
+    }
+ 
+#spin-container{
+    margin-left: -300px;
+}
+.liner{
+
+    width:400px;
+}
+}
+
+@media screen and (max-width:1152px){
+    .videos{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .videos div{
+        margin-top: 20px;
+    }
+
+
+    .aboutgirl{
+
+        right:150px;
+    }
+    #select-container{
+        margin-left: 40px;
+    }
+    .logo{
+margin-left: 30px;
+    }
+}
+@media screen and (max-width:1120px){
+    .connect{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .aboutus div img{
+        width:230px;
+        height:240px
+    }
+}
+
+@media screen and (max-width:1103px){
+ .englishgroup .engtext{
+    margin-top: 70px;
+ }
+ .price div :not(.priceone){
+    width:700px;
+ }
+
+.aboutus div img{
+width:220px;
+height:220px;
+}
+.maindivtwo{
+    margin-left: -30px;
+}
+.logo{
+    margin-right: -5px;
+}
+.videotwo,.videofour{
+    height:495px !important
+}
+.liner{
+   width:330px;
+   
+}
+.about{
+    display:flex;
+    flex-wrap:wrap;
+}
+.spiner{
+    margin-top: -50px;
+}
+.word{
+    width:100%;
+    margin-left: 400px;
+}
+.book{
+    margin-left: -100px;
+    margin-top: -80px;
+}
+#spin-container{
+  margin-top: 200px;
+}
+.aboutpictures >div> img{
+    width:270px;
+ }
+ .underpics {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-right: -100px;
+    
+    
+    
+    }
+    .abouttext{
+        text-align: start;
+     
+     
+     }
+     
+     .aboutgirl{
+         position:absolute;
+       
+       left:-600px;
+       top:71%;
+       height:300px;
+       width:300px;
+     }
+
+}
+@media screen and (max-width:1100px){
+    .langgroup, .langgrouptwo{
+        display:flex;
+        flex-wrap:wrap;
+    }
+    .about .maintexter{
+        width:100%;
+      
+    }
+    .aroryaone {
+margin:30px
+    }
+    .aboutbtns{
+      
+        display: flex;
+        justify-content: center;
+      
+    }
+
+
+
+.engtest,.english{
+    margin:auto;
+}
+
+
+#margpic, #fran, #ger, #chin, #ital, #sp,#rs, #a{
+    margin-top: -30px !important;
+}
+.aroryaone>div img{
+    width:100%;
+   
+    height:390px;
+}
+.aroryaone{
+    margin-top: -50px;
+}
+@media screen and (max-width:1060px){
+    .maindivtwo {
+      display:flex;
+
+      flex-wrap:wrap;
+    }
+   #spin-container{
+    margin: 400px 0px 0 -800px;
+   }
+   .spiner{
+    margin-left: 200px;
+    width:100%;
+   }
+   .word{
+ margin-left:-2px;
+    margin-top: 170px;
+    margin-bottom: -70px;
+    width:100%;
+   }
+   .book{
+    margin:-10px 0 20px -300px;
+   }
+   #spin-container{
+   margin-bottom: 150px;
+   }
+
+.connect{
+    margin-top: 200px;
+}
+.aboutgirl{
+    position: absolute;
+    left:-630px;
+}
+}
+
+}
+@media screen and (max-width:998px){
+    .actgroup,.actgrouptwo{
+        display:flex;
+        justify-content: center;
+    }
+    .logo{
+        margin-left: 30px;
+    }
+    .parentcontair{
+        display:flex;
+        flex-wrap: wrap;
+    }
+    .englishgroup .engtext{
+        width:70%;
+    }
+    .englishgroup {
+     display:flex;
+     flex-wrap:wrap;
+    }
+    .testone img, .testtwo img{
+      height:130px;
+       object-fit: cover;
+    }
+   
+ .opt{
+    height:100px;
+ }
+ .aboutgirl{
+    top:850px;
+    left:-40%;
+  }
+
+ .underpics{
+    align-items:center;
+  margin-left: -40%;
+  justify-content: space-between;
+}
+
+
+
+.logo{
+    margin-right: -20px;
+}
+.engtext p{
+    margin-top: -80px;
+ margin-left:  auto;
+ text-align: center;
+}
+.engtext ul{
+   margin-left: 40px;
+}
+
+
+.we{
+    font-size: 50px;
+}
+.actions{
+    margin-top: 350px;
+}
+}
+@media screen and (max-width:978px){
+    .logo{
+margin-left: 20px;
+    }
+    #select-container{
+        margin-right: -20px;
+    }
+}
+@media screen and (max-width:968px){
+    .englishgroup {
+        display:flex;
+        flex-direction: column;
+        margin:auto;
+    
+    }
+    .opt{
+        height:80px
+    }
+    .logo{
+        margin-left: 20px;
+    }
+   
+   
+    .englishgroup .english {
+     
+        object-fit: contain;
+        margin:10px 40px 0 0
+    }
+    .engtext {
+        margin:-80px auto;
+    }
+   
+   
+}
+@media screen and (max-width:900px){
+    .aboutgirl{
+        top:900px;
+        left:-50%;
+      }
+      .testone img, .testtwo img{
+        height:100px;
+      }
+
+}
+
+@media screen and (max-width:879px){
+    .actgroup,.actgrouptwo{
+        display:flex;
+        flex-wrap: wrap;
+        margin-top: 70px;
+    }
+    .wrapper{
+        display:none;
+    }
+    .aboutgirl{
+        top:920px;
+        left:-50%;
+      }
+ 
+   .days{
+    width:40%;
+   }
+  .line .lineone{
+    width:25%;
+   }
+
+
+ .header{
+    display: flex;
+    flex-wrap: wrap;
+   
+ }
+ label .hamburger{
+    margin-left: 100px;
+ }
+ .logo{
+ margin-right:80px;
+    width:100%;
+    
+    text-align: center;
+ }
+ .flags{
+    margin: auto;
+   
+   
+ }
+ #select-container{
+    width:5%;
+    margin: -370px  0 0 800px;
+    height:5%
+ }
+
+
+ #dropdown-image{
+    margin-top: -10px;
+    width:50px;
+    height:50px;
+    margin-right: -70px;
+  
+ }
+}
+@media screen and (max-width:870px){
+    #select-container{
+        width:5%;
+        margin: -370px  0 0 700px;
+        height:5%
+     }
+     .hasce p{
+        font-size: 14px;
+     }
+     .footerlogo{
+     
+       height:50px
+     }
+     .hasce,.iconki{
+        margin-bottom:-70px;
+     }
+     .date{
+        margin-left: -15px;
+     }
+}
+@media screen and (max-width:830px){
+    .aboutgirl{
+        top:950px;
+        left:-50%;
+      } 
+      .liner{
+        margin-left: -2px;
+      }
+}
+
+@media screen and (max-width:817px){
+    .aboutgirl{
+        top:950px;
+        left:-60%;
+      } 
+}
+
+
+@media screen and (max-width:768px){
+    .header{
+        display: flex;
+        flex-wrap:wrap;
+        margin-left: 50px;
+    }
+    .wrapper {
+        display:none;
+    
+      }
+      .testone, .testtwo{
+        display:flex;
+        flex-wrap: wrap;
+      }
+ 
+      .testone img ,.testtwo img{
+        height:180px;
+ margin-top: 80px;
+ object-fit: cover;
+ 
+      }
+      .testtwo img{
+       margin:20px;
+      }
+      .spanish{
+        margin-left: -25px !important;
+      }
+      .german{
+      margin-left: 170px;
+      }
+      .italian{
+        margin-left: 100px;
+      }
+      
+      
+      .adress{
+        margin-right: 30px;
+        margin-bottom: -5px;
+      }
+      .footerlogo img{
+        height:60px; 
+        margin:20px 0 0 40px
+      }
+     .date{
+        margin-left: -10px !important;
+     }
+      .opt{
+      height:70px
+      }
+     .liner{
+        width:270px;
+     }
+      #drag-container{
+     margin-left: -180px;
+      }
+      .underpics{
+      width:100%;
+      display: flex;
+  margin-left: -50%;
+   
+     
+        
+      }
+      #select-container{
+        width:5%;
+        margin: -370px  0 0 600px;
+        height:5%
+     }
+      #menu{
+        display:block;
+    }
+    .logo{
+        margin-right:100px;
+    }
+    .aboutgirl{
+        top:950px;
+        left:-60%;
+      }
+  
+
+}
+@media screen and (max-width:758px){
+    .aboutgirl{
+        right:80px
+    }
+    .date{
+        margin-left: 100px;
+    }
+}
+
+
+@media screen and (max-width:700px){
+    .price div :not(.priceone){
+        width:560px;
+    }
+    .aboutgirl{
+        top:1250px;
+        left:-70%;
+      }
+      .underpics{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+margin-left: 2%;
+      }
+      #select-container{
+        width:5%;
+        margin: -370px  0 0 500px;
+        height:5%
+     }
+     .testone img,.testtwo img{
+        height:170px;
+        object-fit: cover;
+     }
+     .date{
+        line-height: 40px;
+      font-size: 13px;
+     
+     }
+     .footer{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-between;
+        align-items: center;
+     }
+  .iconki{
+    margin-left:50px
+  }
+}
+@media screen and (max-width:685px){
+    .aboutgirl{
+        display:none;
+    }
+    .actions{
+        margin-top: 70px;
+    }
+    .connectus img{
+        height:100px;
+    }
+}
+@media screen and (max-width:670px){
+    
+      .opt{
+       margin-left: -40px;
+      }
+}
+@media screen and (max-width:640px){
+    .englishgroup .english{
+     margin-right:80px;
+    }
+    .engtext{
+        margin:auto;
+        
+
+    }
+ 
+    .footer{
+    
+        display: flex;
+       flex-wrap:wrap;
+      text-align: center;
+    }
+    .footer .footerlogo{
+       margin-top: -2px;
+       margin-left: 150px;
+    }
+    .adress{
+        margin-right:85px;
+    }
+ 
+    .hasce{
+        margin-left: 230px;
+    }
+    .date{
+       margin-right: 150px !important;
+    }
+    .iconki{
+        margin-bottom: -120px;
+      margin-left: 220px;
+    }
+   .opt{
+    height:50px
+   }
+    #select-container{
+        width:100%;
+    }
+    .about.aboutpictures div{
+        width:250px;
+    }
+    .aboutgirl{
+        top:1380px;
+        left:-83%;
+      }
+}
+@media screen and (max-width:622px){
+  .german{
+    margin-right: 180px;
+  }
+}
+@media screen and (max-width:600px){
+
+#dropdown-image{
+    width:40px;
+    height:40px
+}
+#select-container{
+    width:5%;
+    margin: -370px  0 0 450px;
+    height:5%
+ }
+ .connectus img{
+    height:80px;
+    margin-left: -45px;
+ }
+ .connectedtypes img {
+width:350px;
+height:350px
+  
+ }
+ .icons{
+   
+    margin-bottom: -10px;
+ }
+ .icons img{
+    margin-top: 80px;
+ }
+ .inputfields {
+    width:350px !important;
+    height:500px;
+    margin: auto;
+ }
+ .inputfields input, .inputfields .select{
+    width:300px;
+    
+ }
+ .inputfields #my-form-button{
+    width:150px;
+    margin:70px auto;
+ }
+
+}
+
+@media screen and (max-width:560px){
+    .partner img {
+       text-align: start;
+       margin: 80px 0 70px -50px;
+     
+   
+
+    }
+    .choice img{
+        height:40px;
+
+    }
+    .liner{
+        width:200px
+    }
+    #drag-container{
+        margin-left: -220px;
+         }
+ 
+    .book img{
+        width:150px;
+        height:150px;
+        margin-left: -45px;
+        margin-top: -70px;
+    }
+    #spin-container img{
+     width:80px !important;
+     height:150px !important;
+     margin:-5px !important;
+   
+    }
+    .word{
+        margin-top: 100px;
+        width:400px;
+        margin-left: -270px;
+        margin-bottom: 100px;
+    }
+   
+
+   .book{
+    display:none;
+   }
+    .alllanguages{
+        margin-right: -10%;
+    }
+    .message{
+        top:380px
+    }
+    .aboutbtns{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .underpics{
+        margin-left: -25%;
+    }
+    .about{
+       margin: auto;
+        text-align: center;
+    }
+    .about h1{
+        font-size: 45px;
+    }
+    .about .abouttext{
+        margin: auto;
+        text-align: start;
+        font-size: 14px;
+    }
+    .abouttext p {
+        font-size: 12px;
+    }
+    #select-container{
+        width:5%;
+        margin: -370px  0 0 450px;
+        height:5%
+     }
+    .we{
+        font-size: 50px;
+    }
+    .englishgroup .english{
+        margin-right: 300px;
+       
+    }
+    
+    .englishgroup .engtext{
+        width:100%;
+        text-align: center;
+        margin-left: 2px;
+        
+       
+    }
+  
+    .price div :not(.priceone){
+        width:520px;
+    }
+}
+@media screen and (max-width:520px){
+    .price div :not(.priceone){
+        width:480px;
+    }
+    .engtext p, .list li{
+        font-size: 14px;
+        
+    }
+    .inputfields{
+        height:500px !important;
+    }
+    .spiner{
+       text-align: center;
+    }
+    #spin-container{
+        display: none;
+    }
+    .book{
+        display:block;
+        width:400px;
+        height:400px
+    }
+    .book img{
+        width:300px;
+        height: 300px;
+    }
+    .child{
+        display:none;
+    }
+    #select-container{
+        width:5%;
+        margin: -370px  0 0 400px;
+        height:5%
+     }
+    .logo{
+        margin-left: 70px;
+    }
+}
+@media screen and (max-width:510px){
+    #dropdown-image{
+margin-top: -10px;
+    }
+}
+@media screen and (max-width:507px) {
+    #dropdown-image{
+        margin-top: -30px;
+        margin-left:10px;
+            }
+            .videotwo, .videosix, .videofour{
+                height:400px !important;
+                width:400px !important
+            }
+            .liner{
+                margin-left: -15px;
+            }
+            .footer{
+                margin-left: -50px;
+            }
+
+}
+@media screen and (max-width:480px){
+    .price div :not(.priceone){
+        width:400px;
+    }
+    .choice img{
+height:28px
+    }
+    .priceheader{
+        font-size: 40px;
+    }
+    #dropdown-image{
+        margin-top: -25px;
+        margin-left:10px;
+        width:30px;
+        height:30px
+            }
+            .logo{
+                margin-left: 70px;
+            }
+            #select-container{
+                margin-right: 30px;
+            }
+
+.videotwo, .videosix, .videofour{
+    height:400px !important;
+    width:400px !important
+}
+.word p{
+    font-size: 14px;
+    margin-left: -20px;
+}
+.liner{
+    width:150px
+}
+.book img{
+    width:270px;
+    height:270px
+}
+
+    footer{
+        height:230px !important
+    }
+
+.date{
+    line-height: 25px;
+}
+}
+@media screen and (max-width:450px){
+    #select-container{
+        margin-right: 50px;
+    }
+    .connectus img{
+        height:70px ;
+    }
+.date{
+    margin-left: 100px;
+}
+}
+@media screen and (max-width:430px){
+   
+    #select-container{
+        margin-top: -95px;
+        margin-right: 80px;
+    }
+    .aroryaone div{
+        width:350px;
+      
+    }
+    .videotwo, .videofour{
+        width:400px;
+    }
+    .view{
+        margin:10px 0px 10px 250px 
+    }
+  .word{
+    width:200px;
+  }
+  .opt{
+    height:40px
+  }
+  .footer{
+    margin-right: 550px 
+  }
+  }
+@media screen and (max-width:400px){
+    .price div :not(.priceone){
+        width:350px;
+    }
+.logo{
+    margin-left:80px;
+}
+#select-container{
+    margin-right:100px;
+}
+.ourdays .aroryaone div {
+    width:350px;
+   
+}
+.word {
+    width:250px;
+    margin-right: 20px;
+}
+.liner{
+    width:120px;
+}
+.inputfields{
+    margin-right: 10px;
+}
+
+.connectus img{
+height:60px
+}
+.connectedtypes img{
+    width:300px;
+    height:300px;
+}
+.inputfields{
+    width:300px !important;
+    height: 300px;
+}
+.inputfields input, .inputfields .select{
+    width:250px;
+    
+ }
+ .inputfields #my-form-button{
+    width:130px;
+    margin:70px auto;
+ }
+}
+.date{
+    margin-left: -2px !important;
+}
+   
+  
+
+@media screen and (max-width:360px){
+.english{
+    margin-right: -40px;
+}
+
+label .hamburger{
+    margin-top: 150px;
+}
+.underpics{
+    margin-left: -65%;
+}
+.ourdays .aroryaone div {
+    width:350px;
+   
+}
+.aroryaone{
+    margin-right: 50px;
+}
+.english img{
+    margin-left: -60px;
+}
+ .videofour, .videotwo{
+   height:350px !important;
+   width: 320px !important;
+}
+.videosix{
+    height:350px !important;
+    width: 360px !important;
+}
+
+#select-container{
+    margin-top: -400px;
+    margin-left: -250px;
+}
+
+.textabout .weone{
+ margin:auto;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+
+
+    
+}
+.footer{
+    margin-left: -120px;
+}
+.adress{
+    margin-right: 20px;
+}
+
+
+
+
+}
+@media screen and (max-width:325px){
+
+}
